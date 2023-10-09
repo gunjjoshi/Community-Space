@@ -1,4 +1,6 @@
-- **Name**: _Adithya R Prabhu_
-- **Organization**:_IIIT kottayam_
-- **Linkedin**:[@adithya-r-prabhu](https://www.linkedin.com/in/adithya-r-prabhu/)
-- **Hobbies**:_Linux,web automation_
+- Name: Adithya R Prabhu
+- Organization: IIIT Kottayam
+- Your Journey to Open Source / Cyber Security (50-100 Words): Passionate about fortifying the digital realm, I embarked on my open-source journey in cybersecurity to contribute innovative solutions. As a dedicated student at IIIT Kottayam, I strive to merge theoretical knowledge with practical applications, fostering a safer cyberspace for all.
+- LinkedIn: [adithya-r-prabhu](https://linkedin.com/adithya-r-prabhu)
+- Hobbies: Exploring cybersecurity trends, coding challenges, and delving into ethical hacking.
+- About Yourself (50-100 Words): A  student at IIIT Kottayam, I am on a mission to make meaningful contributions to cybersecurity through open source. With a fervor for learning and a penchant for ethical hacking, I aspire to build a robust foundation for a secure digital future.
