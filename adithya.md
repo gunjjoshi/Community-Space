@@ -1,0 +1,4 @@
+- **Name**: _Adithya R Prabhu_
+- **Organization**:_IIIT kottayam_
+- **Linkedin**:[@adithya-r-prabhu](https://www.linkedin.com/in/adithya-r-prabhu/)
+- **Hobbies**:_Linux,web automation_
