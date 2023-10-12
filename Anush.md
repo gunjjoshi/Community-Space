@@ -1,7 +1,5 @@
 - Name: Anush Bundel
 - Organization: Indian Institute of information Technology
-- Your Journey to Open Source / Cyber Security (50-100 Words): I am jjust starting out how to use Github
-- Linkedin (Optional): 
+- Your Journey to Open Source / Cyber Security (50-100 Words): I am new to the world of Open Source and I am learning how to contribute to open source projects so that I can gain experience for solving real world problems and finally become a self-independent game developer. I also like to collabaorate with people in projects that are of interest to me and I hope that I can gain knowledge to improve myself in every aspect.
 - Hobbies: Game Development and Digital Music Composition
-- About Yourself (50-100 Words): I am learning Game Dev in Godot game engine
-- Achivements/Contributions in Cyber Security(Top 3, Optional)
+- About Yourself (50-100 Words): I am currently a student in IIIT Kottayam and pursuing a degree in B.Tech Computer Science and Engineering and I dream to be a Game Developer and create my unique games and show my creative ideas to others and I am learning Godot Game Engine to do so. I also have a keen interest in Digital Music Composition which I am also still learning.
