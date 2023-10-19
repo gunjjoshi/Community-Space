@@ -1,0 +1,5 @@
+- Name: Anush Bundel
+- Organization: Indian Institute of Information Technology Kottayam
+- Your Journey to Open Source / Cyber Security (50-100 Words): I am new to the world of open source and I am interested in learning how to contribute to open source projects so as to gain experience in solving real world problems, which will also help me to build my resume. I also would like to collabaorate with people in projects that are of interest to me and I hope that I can gain lots of knowledge to constantly improve myself in every way possible.
+- Hobbies: Game Development, Music Composition and Playing Keyboard.
+- About Yourself (50-100 Words): I am currently a student at IIIT Kottayam and pursuing a degree in Computer Science and Engineering. I dream to become a Game Developer and create my own unique games and show my creative ideas to others. I am currently learning Godot Game Engine to learn game development. I also have a keen interest in Digital Music Composition, particularly in creating energetic DJ music tracks, using Digital Audio Workstations such as FL Studio & LMMS.
