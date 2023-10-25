@@ -23,6 +23,26 @@ Hobbies:
 About Yourself (50-100 Words):
 Achivements/Contributions in Cyber Security(Top 3, Optional)
 ```
+## Contributors
+
+<div style="margin: auto;">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Adithya R Prabhu" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./contributors/adithya.md">Adithya R Prabhu</a>
+    </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Anush Bundel" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./contributors/Anush.md">Anush Bundel</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ### Note:
 - Make sure you follow the above format to get your PR accepted, commit the changes to the same readme file, after the note...
 - You can even contribute to the repo (Content, with new ideas)...
