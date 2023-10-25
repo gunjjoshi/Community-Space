@@ -17,10 +17,10 @@ Join us, create a pull request with the below format, to feature yourself here..
 ```
 Name:
 Organization:
-Your Journey to Open Source / Cyber Security (50-100 Words):
+Your Journey to Open Source / Cyber Security (25-100 Words):
 Linkedin (Optional):
 Hobbies:
-About Yourself (50-100 Words):
+About Yourself (25-100 Words):
 Achivements/Contributions in Cyber Security(Top 3, Optional)
 ```
 ## Contributors
