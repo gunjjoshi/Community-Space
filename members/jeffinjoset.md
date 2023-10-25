@@ -1,0 +1,5 @@
+- Name: Jeffin Jose T.
+- Organization: IIIT Kottayam
+- Your Journey to Open Source / Cyber Security (50-100 Words): Passionate about fortifying the digital realm, I embarked on my open-source journey in cybersecurity to contribute innovative solutions. As a dedicated student at IIIT Kottayam, I strive to merge theoretical knowledge with practical applications, fostering a safer cyberspace for all.
+- Hobbies: PLaying video games, solving chess puzzles and watching movies.
+- About Yourself (50-100 Words): My name is Jeffin as you can see and I'm an 18 year old from Kerala. I'm interested in game development and music, both og which I intend to learn in my four years at this institution. I also love hanging out with my friends and just messing around in general.
