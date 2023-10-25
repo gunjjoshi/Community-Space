@@ -47,6 +47,45 @@ Join us, create a pull request with the below format, to feature yourself here..
       <br>
       <a href = "./members/Anush.md">Anush Bundel</a>
     </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Aditya Karn" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/ak.md">Aditya Karn</a>
+    </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Alex Gijo" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/Alex.md">Alex Gijo</a>
+    </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Amit Anand" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/Amit.md">Amit Anand</a>
+    </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Elhan B Thomas" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/elhan2.md">Elhan B Thomas</a>
+    </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="Laavanya Rajan" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/Laavanya_R.md">Laavanya Rajan</a>
+    </td>
+    <td style="text-align: center;">
+      <img src="./avatar.png" alt="KETHAVATH MURALI" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/Murali.md">KETHAVATH MURALI</a>
+    </td>
+  </tr>
+  <tr>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Phani Madhav" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/Phani.md">Phani Madhav</a>
+    </td>
   </tr>
 </table>
 </div>
