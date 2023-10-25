@@ -45,5 +45,6 @@ Achivements/Contributions in Cyber Security(Top 3, Optional)
 
 ### Note:
 - Make sure you follow the above format to get your PR accepted, commit the changes to the same readme file, after the note...
+- Make a file YOUR_NAME.md in the contributors folder, add your details according to the given format in that file and make the PR
 - You can even contribute to the repo (Content, with new ideas)...
 - Our main aim of this is to help you to start with and encourage you with the NO-CODE Open Source Contributions, only 1 contribution per person will be accepted add all the commits regarding to your info or contributin (to the repo like typos etc...) should be done in 1 PR.
