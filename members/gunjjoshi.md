@@ -1,0 +1,7 @@
+- Name: Gunj Joshi
+- Organization: IIITK
+- Your Journey to Open Source / Cyber Security (25-100 Words): hello this is a session on hacktoberfest contribution.
+- Linkedin (Optional):[YOUR_NAME](LINKEDIN_PROFILE_LINK)
+- Hobbies: 
+- About Yourself (25-100 Words): 
+- Achivements/Contributions in Cyber Security(Top 3, Optional)
