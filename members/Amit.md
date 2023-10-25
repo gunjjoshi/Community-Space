@@ -1,0 +1,7 @@
+- Name: Amit Anand
+- Organization: IIIT Kottayam
+- Your Journey to Open Source / Cyber Security (25-100 Words): My journey to cybersecurity began with a passion for technology and a commitment to safeguarding digital landscapes. Starting as a curious novice, I am interested in learning more about cybersecurity.
+- Linkedin (Optional):[Amit Anand](https://www.linkedin.com/in/amit-anand-6718b0289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Hobbies: Singing, Listening to music, Anime and Manga, Volleyball
+- About Yourself (25-100 Words): An enthusiastic learner, a passionate person and a music lover who loves challenges and never hesitant to experiment with new things. Resilient and creative enough to never give up if stuck in a problem and try to find a way out.
+- Achivements/Contributions in Cyber Security(Top 3, Optional)
