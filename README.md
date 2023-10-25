@@ -22,14 +22,14 @@ Join us, create a pull request with the below format, to feature yourself here..
 - Linkedin (Optional):[YOUR_NAME](LINKEDIN_PROFILE_LINK)
 - Hobbies:
 - About Yourself (25-100 Words):
-- Achivements/Contributions in Cyber Security(Top 3, Optional)
+- Achievements/Contributions in Cyber Security(Top 3, Optional)
 ```
 
 ### Note:
 - Make sure you follow the above format to get your PR accepted.
 - Make a file YOUR_NAME.md in the members folder, add your details according to the given format in that file and make the PR
 - You can even contribute to the repo (Content, with new ideas)...
-- Our main aim of this is to help you to start with and encourage you with the NO-CODE Open Source Contributions, only 1 contribution per person will be accepted and all the commits regarding your info or contributin (to the repo, like typos etc...) should be done in 1 PR.
+- Our main aim of this is to help you to start with and encourage you with the NO-CODE Open Source Contributions, only 1 contribution per person will be accepted and all the commits regarding your info or contributing (to the repo, like typos etc...) should be done in 1 PR.
 
 
 ## Community Members
