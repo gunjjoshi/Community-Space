@@ -7,5 +7,6 @@ Pursuing B.Tech in Cyber Secrurity I started my journey in the 1st year, partici
 #### About Me: 
 I am a Cyber geek, explorinng the feilds in cyber security and trying to spread the world of cyber security in my college as a Cyber Security Club Lead. Interested in Network Security and Application Security. Currently working on learning more in the releame of Cyber Security.
 #### Achievements/Contributions in Cyber Security:
+- Cyber Security Club Lead
 - 10th Rank in Technovate IIIT Naya Raipur
 - 81/500 EsCTF Organized by DSCI, IIT Madras
