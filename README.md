@@ -34,6 +34,13 @@ Join us, create a pull request with the below format, to feature yourself here..
 
 ## Club Leads
 
+<style>
+  .center{
+    margin: auto;
+  }
+</style>
+
+<div class="center">
 <div style="margin: auto;">
 <table style="border: none; border-collapse: collapse;">
   <tr>
@@ -119,5 +126,5 @@ Join us, create a pull request with the below format, to feature yourself here..
   </tr>
 </table>
 </div>
-
+</div>
 
