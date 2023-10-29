@@ -34,14 +34,7 @@ Join us, create a pull request with the below format, to feature yourself here..
 
 ## Club Leads
 
-<style>
-  .center{
-    margin: auto;
-  }
-</style>
-
-<div class="center">
-<div style="margin: auto;">
+<div align = "center">
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -56,7 +49,7 @@ Join us, create a pull request with the below format, to feature yourself here..
 
 ## Core Team
 
-<div style="margin: auto;">
+<div align = "center">
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -71,7 +64,7 @@ Join us, create a pull request with the below format, to feature yourself here..
 
 ## Community Members
 
-<div style="margin: auto;">
+<div align = "center">
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -125,6 +118,5 @@ Join us, create a pull request with the below format, to feature yourself here..
     </td>
   </tr>
 </table>
-</div>
 </div>
 
