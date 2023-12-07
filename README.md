@@ -38,7 +38,7 @@ Join us, create a pull request with the below format, to feature yourself here..
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
-      <img src="./members/images/priyatham.jpg" alt="Darisi Priyatham" style="width: 100px; height: 100px;">
+      <img src="./members/images/priyatham.jpg" alt="Darisi Priyatham" style="width: 120px; height: 150px;">
       <br>
       <a href = "./members/darisiPriyatham.md">Darisi Priyatham</a>
     </td>
