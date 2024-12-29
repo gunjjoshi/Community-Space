@@ -15,6 +15,7 @@ Community Space is to feature and encourage all the enthusiastic Cyber Geeks, Op
 Join us, create a pull request with the below format, to feature yourself here...
 
 ### Format
+
 ```
 - Name:
 - Organization:
@@ -26,15 +27,43 @@ Join us, create a pull request with the below format, to feature yourself here..
 ```
 
 ### Note:
+
 - Make sure you follow the above format to get your PR accepted.
 - Make a file YOUR_NAME.md in the members folder, add your details according to the given format in that file and make the PR
 - You can even contribute to the repo (Content, with new ideas)...
 - Our main aim of this is to help you to start with and encourage you with the NO-CODE Open Source Contributions, only 1 contribution per person will be accepted and all the commits regarding your info or contributing (to the repo, like typos etc...) should be done in 1 PR.
 
+## Club Leads
+
+<div align = "center">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="./members/images/priyatham.jpg" alt="Darisi Priyatham" style="width: 120px; height: 150px;">
+      <br>
+      <a href = "./members/darisiPriyatham.md">Darisi Priyatham</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+## Core Team
+
+<div align = "center">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="./members/images/gunj.jpg" alt="Gunj Joshi" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/gunjjoshi.md">Gunj Joshi</a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Community Members
 
-<div style="margin: auto;">
+<div align = "center">
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="text-align: center;">
@@ -50,7 +79,7 @@ Join us, create a pull request with the below format, to feature yourself here..
     <td style="text-align: center;">
       <img src="./avatar.png" alt="Aditya Karn" style="width: 100px; height: 100px;">
       <br>
-      <a href = "./members/ak.md">Aditya Karn</a>
+      <a href = "./members/aditya.md">Aditya Karn</a>
     </td>
     <td style="text-align: center;">
       <img src="./avatar.png" alt="Alex Gijo" style="width: 100px; height: 100px;">
@@ -86,8 +115,21 @@ Join us, create a pull request with the below format, to feature yourself here..
       <br>
       <a href = "./members/Phani.md">Phani Madhav</a>
     </td>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Alan Thomas Paul" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/alan.md">Alan Thomas Paul</a>
+    </td>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Jefin Francis" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/jefin.md">Jefin Francis</a>
+    </td>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Surya Teja" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/SuryaTeja.md">Surya Teja</a>
+  </td>
   </tr>
 </table>
 </div>
-
-

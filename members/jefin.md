@@ -1,0 +1,5 @@
+Name: Jefin Francis
+Organization: IIIT Kottayam
+Your Journey to Open Source / Cyber Security (50-100 Words): Passionate about fortifying the digital realm, I embarked on my open-source journey in cybersecurity to contribute innovative solutions. As a dedicated student at IIIT Kottayam, I strive to merge theoretical knowledge with practical applications, fostering a safer cyberspace for all.
+Hobbies: Game dev,Kali Linux
+About Yourself (50-100 Words): A  student at IIIT Kottayam, I am on a mission to make meaningful contributions to cybersecurity through open source. With a fervor for learning and a penchant for ethical hacking, I aspire to build a robust foundation for a secure digital future.
