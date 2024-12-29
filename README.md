@@ -125,6 +125,11 @@ Join us, create a pull request with the below format, to feature yourself here..
       <br>
       <a href = "./members/jefin.md">Jefin Francis</a>
     </td>
+  <td style="text-align: center;">
+      <img src="./avatar.png" alt="Surya Teja" style="width: 100px; height: 100px;">
+      <br>
+      <a href = "./members/SuryaTeja.md">Surya Teja</a>
+  </td>
   </tr>
 </table>
 </div>
